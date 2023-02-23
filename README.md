@@ -1,3 +1,8 @@
+## Warning
+
+**This plugin has been moved to a new repository, it's no longer updated on this repository.**
+**Please see https://gitlab.com/dne-elearning/moodle-magistere/moodle-mod_coursebadges for the latest version**.
+
 # ![moodle-mod_coursebadges](pix/icon.png) Activity Module: Course badges for Moodle
 
 - Source Code: https://github.com/reseaucanope/moodle-mod_coursebadges
